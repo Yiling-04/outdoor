@@ -18,7 +18,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: 'Outdoor Logs',
   siteUrl: 'https://outdoorlogs.vercel.app/',
-  logo: 'https://github.com/account',
+  logo: 'https://avatars.githubusercontent.com/u/143258245?v=4',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
