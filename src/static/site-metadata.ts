@@ -31,8 +31,8 @@ const data: ISiteMetadataResult = {
       url: 'https://yiling615.notion.site/podcast',
     },
     {
-      name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      name: 'Run',
+      url: 'https://yiling615.github.io/running_page/',
     },
   ],
 };
