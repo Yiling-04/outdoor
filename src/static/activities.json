@@ -208,6 +208,22 @@
 "streak": 1
 },
 {
+"run_id": 14528448933,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 1495.4,
+"moving_time": "0:15:56",
+"type": "Ride",
+"start_date": "2024-10-02 07:16:54+00:00",
+"start_date_local": "2024-10-02 15:16:54",
+"location_country": "1083\u5f048\u53f7, \u5e73\u578b\u5173\u8def, \u5927\u5b81\u8def\u8857\u9053, \u9759\u5b89\u533a, \u4e0a\u6d77\u5e02, 200072, \u4e2d\u56fd",
+"summary_polyline": "gu|}DcqhdVDDJ??BMI@?JdBHfQA`A@zBCdAHbICp@Mz@MTKFE?PCPDJJD\\F@NAn@WVODBAL@MACGAMBEHFCVANEJDJNB`@CJDXH??BBl@JNNJCN?JFPJFBC@BBz@Al@CPFv@ARHl@@h@NVH\\?NDLAF@`@Vp@ANBVKFAJBVRF`@XVDLFDHJ?@HBD@JFLALKNE`@EFB\\A`@CLDFGDIAKB",
+"average_heartrate": 113.0,
+"average_speed": 1.564,
+"elevation_gain": 2.6,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 14213136519,
 "name": "\u665a\u95f4\u8dd1\u6b65",
 "distance": 2122.0,
