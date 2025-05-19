@@ -28,7 +28,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Podcast',
-      url: https://yiling615.notion.site/podcast',
+      url: 'https://yiling615.notion.site/podcast',
     },
     {
       name: 'About',
