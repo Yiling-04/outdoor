@@ -974,5 +974,21 @@
 "elevation_gain": 352.8,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14714656191,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1654.0,
+"moving_time": "0:11:33",
+"type": "Run",
+"start_date": "2025-06-06 14:41:14+00:00",
+"start_date_local": "2025-06-06 22:41:14",
+"location_country": "\u6c55\u5934\u5927\u5b66, through the graveyards, \ud873\udd8d\u6c5f\u8857\u9053, \u91d1\u5e73\u533a, \u6c55\u5934\u5e02, \u5e7f\u4e1c\u7701, 515063, \u4e2d\u56fd",
+"summary_polyline": "my|mCexyfUCBYNKPGX?\\FVVZRJXD~CCRAJCJGV]F_@Cc@IUQSSKQEoDAYHOHS\\EL?h@DRLTNJZJH@hDA^ITSFMD]A_@EWOSSMUEoDA]FWVINCLAZBXFPVXNFzCA`@BHAVMTYHQ@_@EWMUYUUGyCA[@QFSPOVCd@BVHTPN\\NfD?L@NCZYPe@@WIe@",
+"average_heartrate": 175.7,
+"average_speed": 2.387,
+"elevation_gain": 11.7,
+"source": "strava",
+"streak": 1
 }
 ]
